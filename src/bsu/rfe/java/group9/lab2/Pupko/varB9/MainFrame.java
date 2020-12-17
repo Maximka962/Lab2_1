@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
-
+//прога
 @SuppressWarnings("serial")
 public class MainFrame extends JFrame {
     private static final int WIDTH = 400;
