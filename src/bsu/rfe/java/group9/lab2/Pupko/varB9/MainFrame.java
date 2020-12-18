@@ -96,7 +96,7 @@ public class MainFrame extends JFrame {
         hboxVariables.add(Box.createHorizontalGlue());
 
         JLabel labelForResult = new JLabel("Результат:");
-        textFieldResults = new JTextField("0", 10);
+        textFieldResults = new JTextField("0", 20);
         textFieldResults.setMaximumSize(
                 textFieldResults.getPreferredSize());
         Box hboxResult = Box.createHorizontalBox();
